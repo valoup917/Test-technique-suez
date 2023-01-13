@@ -1,0 +1,22 @@
+app angular:
+
+    page d'accueil avec navigation
+
+    accueil:
+        mon cv
+    page 1:
+        Naxos
+    page 2:
+        Taker
+    page 3:
+        Area
+    page Film:
+        scroll infini classés par popularité décroissante de themoviedb.org
+
+    sur page d'accueil, rubrique qui fait défiler les pages 1 à 1
+
+
+
+serveur node js:
+
+    route qui récupérer données sur l’api themoviedb.org
