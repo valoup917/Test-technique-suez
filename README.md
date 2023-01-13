@@ -2,12 +2,15 @@
 Backend server:
 
 cd backend
+
 npm start
 
 
 Frontend app:
 
+
 cd frontend
+
 ng serve
 
 
