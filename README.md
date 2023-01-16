@@ -23,7 +23,7 @@ ng serve
 
 
 
-Par manque de temps je n'ai pas pu implementer le lien entre le back et le front, en effet Yaniss PHERON m'avait indiqué 3-4h pour faire le test.
+Par manque de temps je n'ai pas pu implementer le lien entre le back et le front, en effet mon premier interlocuteur m'avait indiqué 3-4h pour faire le test.
 J'ai effectué ce travail en 4h30 a peu près, j'ai eu quelques difficultés car ca faisait quelques années que je n'avais pas vraiment retouché à angular.
 
 J'espère néanmoins que le rendu vous plaira.
